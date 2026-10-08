@@ -1,0 +1,6 @@
+{
+  "name": "PresensiHub - Sisfor Absensi & PRD Terpadu",
+  "description": "Product Requirement Document (PRD), Desain Skema Database Relasional, dan Prototipe Interaktif Sistem Informasi Absensi multi-role responsif mobile.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
